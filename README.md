@@ -1,5 +1,4 @@
 # List-of-Student-Biodata
-list-biodata-the student
 ==
 List student biodata DicodingAcademy 
 --
